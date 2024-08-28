@@ -1,0 +1,8 @@
+sub  r2, r2, #5
+add r3, r3, #100
+stb (r3)#1, r2
+ldb r4, (r3)#1
+out r2
+out r3
+out r4
+hlt

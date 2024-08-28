@@ -1,0 +1,7 @@
+       in  r2
+debut: out r1
+       sub r3, r2, r1
+       jzs fin
+       add r1, r1, #1
+       jmp debut
+fin:   hlt
