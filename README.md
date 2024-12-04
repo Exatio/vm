@@ -1,4 +1,4 @@
-# Virtual Machine Simulator - User Manual
+# Virtual Machine Simulator
 
 ## Introduction
 
